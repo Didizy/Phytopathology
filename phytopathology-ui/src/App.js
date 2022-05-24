@@ -1,9 +1,11 @@
-import './App.css';
-import Kb from './pages/Kb';
+import "./App.css";
+import Kb from "./pages/Kb";
 
 function App() {
   return (
-   <Kb/>
+    <>
+      <Kb />
+    </>
   );
 }
 
